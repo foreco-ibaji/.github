@@ -39,8 +39,12 @@ Wiz는 지자체 홈페이지에서 정확한 정보를 가져와 제공합니�
 ### 2. 위치 기반 쓰레기 배출 정보 조회
 <img src="https://github.com/foreco-ibaji/.github/assets/94590894/298fccea-8f49-4a69-b192-a3142786ee3f" width="30%" height="30%"/>
 
+### 3. 카메라로 쓰레기 인식
+1) 촬영할 경우
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/d4991971-c1f6-48df-a69d-d488ac2ec044" width="30%" height="30%"/>
 
-### 3. 카메라로 쓰레기 인식(단일/복합)
+2) 갤리러에서 선택할 경우
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/76a32eeb-747e-4114-a442-5ca54f16533c" width="30%" height="30%"/> 
 
 ### 4. 쓰레기 배출방법 검색
 <img src="https://github.com/foreco-ibaji/.github/assets/94590894/386f47c4-16b8-4805-9230-bfa6b740d2f9" width="30%" height="30%"/>
