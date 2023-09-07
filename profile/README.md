@@ -37,6 +37,7 @@ Wiz는 지자체 홈페이지에서 정확한 정보를 가져와 제공합니�
 <img src="https://github.com/foreco-ibaji/.github/assets/94590894/47a49669-4909-4b85-a200-285e25e12896" width="30%" height="30%"/>
 
 ### 2. 위치 기반 쓰레기 배출 정보 조회
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/298fccea-8f49-4a69-b192-a3142786ee3f" width="30%" height="30%"/>
 
 
 ### 3. 카메라로 쓰레기 인식(단일/복합)
@@ -45,6 +46,7 @@ Wiz는 지자체 홈페이지에서 정확한 정보를 가져와 제공합니�
 <img src="https://github.com/foreco-ibaji/.github/assets/94590894/386f47c4-16b8-4805-9230-bfa6b740d2f9" width="30%" height="30%"/>
 
 ### 5. 특수 폐기물(폐형광등/폐건전지/의류) 수거함 지도 제공
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/d61e7672-0542-4cbb-b512-9ab406c2df95" width="30%" height="30%"/>
 
 
 ## 기대효과 및 활용분야
