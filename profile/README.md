@@ -2,9 +2,9 @@
 ![image](https://github.com/foreco-ibaji/.github/assets/94590894/a1bc5eb9-f0cc-41ab-b162-9a5e943cc7ef)
 
 ## 목차
-[1. Wiz란?](#👫-wiz란?(위이쓰-->-위즈))  
-[2. Wiz 기획 배경](#💁-wiz-기획-배경)  
-[3. Wiz의 목적](#🧚-wiz의-목적)  
+[1. Wiz란?](#wiz란?(위이쓰-->-위즈))  
+[2. Wiz 기획 배경](#wiz-기획-배경)  
+[3. Wiz의 목적](#wiz의-목적)  
 [4. 주요 기능 시연](#주요-기능-시연)  
 [5. 기대효과 및 활용분야](#기대효과-및-활용분야)  
 [6. Foreco 팀원 소개](#👋-foreco-팀원-소개)  
