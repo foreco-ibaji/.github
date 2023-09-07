@@ -80,3 +80,8 @@ Wiz는 높은 정확도의 객체 탐지 모델을 가지고 있습니다.
 | 김준태 | 김민서 | 이설희 | 최재혁 | 한채영 |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
 | AI Developer | App Developer | Server Developer | Server Developer | Product Designer |
+
+**🔗Wiz 개발자들의 레포지토리**
+> - 🖱️[Wiz-App 레포지토리 가기](https://github.com/foreco-ibaji/Wiz-App-version1)
+> - 🖱️[Wiz-AI 레포지토리 가기](https://github.com/foreco-ibaji/Wiz-AI)
+> - 🖱️[Wiz-Server 레포지토리 가기](https://github.com/foreco-ibaji/Wiz-Server)
