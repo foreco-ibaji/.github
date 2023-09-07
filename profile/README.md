@@ -50,7 +50,7 @@ Wiz는 지자체 홈페이지에서 정확한 정보를 가져와 제공합니�
 1) 촬영할 경우
 <img src="https://github.com/foreco-ibaji/.github/assets/94590894/d4991971-c1f6-48df-a69d-d488ac2ec044" width="30%" height="30%"/>
 
-2) 갤리러에서 선택할 경우
+2) 사진 갤러리에서 선택할 경우
 <img src="https://github.com/foreco-ibaji/.github/assets/94590894/76a32eeb-747e-4114-a442-5ca54f16533c" width="30%" height="30%"/> 
 
 ### 4. 쓰레기 배출방법 검색
