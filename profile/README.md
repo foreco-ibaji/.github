@@ -32,13 +32,17 @@ Wiz는 지자체 홈페이지에서 정확한 정보를 가져와 제공합니�
 
 
 ## 주요 기능 시연
-### 1. 위치 설정
+### 1. 위치, 촬영, 오디오 정보 동의 
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/6501ac79-2a70-4656-ab09-7105d6f5e28b" width="30%" height="30%"/>
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/47a49669-4909-4b85-a200-285e25e12896" width="30%" height="30%"/>
 
-### 2. 위치 기반 배출 정보 제공
+### 2. 위치 기반 쓰레기 배출 정보 조회
+
 
 ### 3. 카메라로 쓰레기 인식(단일/복합)
 
 ### 4. 쓰레기 배출방법 검색
+<img src="https://github.com/foreco-ibaji/.github/assets/94590894/386f47c4-16b8-4805-9230-bfa6b740d2f9" width="30%" height="30%"/>
 
 ### 5. 특수 폐기물(폐형광등/폐건전지/의류) 수거함 지도 제공
 
